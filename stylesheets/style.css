@@ -1,0 +1,8 @@
+.logo_header{
+    background-image:url(../images/grande.png);
+    width:385px;
+    height:60px;
+    background-size: 385px 60px;
+    margin:0px auto;
+    cursor: pointer
+}
